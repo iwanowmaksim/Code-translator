@@ -1,0 +1,7 @@
+int main()
+{
+	int d = 50;
+	int w = d + 66 - 6;
+	w *= 2;
+	return 0;
+}

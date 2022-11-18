@@ -1,0 +1,28 @@
+int counter(int a, int b)
+{
+	return a + b;
+}
+
+int counter2(int t, int s)
+{
+	return t + s;
+}
+
+int main()
+{
+	;;int c =    -8;               // simple comment
+	c +=   4;
+	c/*comment*/ ==/**/ce;  /*sd*/ w = 5;  /*
+	sda*/
+	ew != d;
+	/*
+	sddd*/
+	/*
+	saf ! $(&^!$ sa/.,s{]p
+	*/
+	int d = 0;
+	int w = 9;
+	c = counter(c, d, w);
+
+	return 0;
+}
